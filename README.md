@@ -9,13 +9,15 @@ I don't just study security; I build tools and analyze threats. I approach steep
 
 ### 🛠️ My Arsenal
 
-**🛡️ Security, Monitoring & Defense**
+**🛡️ Security, Monitoring & Defense** 
+
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 **⚔️ Offensive, Auditing & OSINT**
+
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-2B7A8B?style=for-the-badge)
@@ -24,11 +26,13 @@ I don't just study security; I build tools and analyze threats. I approach steep
 ![OSINT / Dark Web](https://img.shields.io/badge/OSINT_Tools-000000?style=for-the-badge&logo=tor&logoColor=white)
 
 **💻 Systems & Networks**
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **👨‍💻 Programming & Scripting**
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
