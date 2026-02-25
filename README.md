@@ -1,5 +1,5 @@
 # 🛡️ Hey, I'm Josh
-### Junior SOC Analyst | Cyber Defense Specialist | Python Developer
+### Junior SOC Analyst | Cyber Defense Specialist 
 
 *Welcome to my digital fortress.* I am a proactive cybersecurity specialist with a foundation in Computer Engineering and **over 400 hours of hands-on labs** in real-world attack and defense scenarios. 
 
@@ -38,10 +38,12 @@ I don't just study security; I build tools and analyze threats. I approach steep
 
 ### 🔭 Featured Projects & Operations
 
-* 🎣 **[BlockDaFish](https://github.com/joshvanedwardabanico/BlockDaFish)** *An AI-powered anti-phishing tool.* Built a custom Python application with an asynchronous GUI that integrates BeautifulSoup and the Gemini AI API to semantically analyze emails and expose obfuscated social engineering threats.
-* 🔐 **Enterprise Network Defense**
+*  **[BlockDaFish](https://github.com/joshvanedwardabanico/BlockDaFish)** *An AI-powered anti-phishing tool.* Built a custom Python application with an asynchronous GUI that integrates BeautifulSoup and the Gemini AI API to semantically analyze emails and expose obfuscated social engineering threats.
+*  **Enterprise Network Defense**
   Designed and implemented a secure corporate infrastructure using Cisco Packet Tracer and pfSense firewalls for traffic management and access filtering.
-* 🦠 **Malware Lab & Reverse Engineering**
+*  **End-to-End Penetration Testing**
+  Conducted three complete "Blackbox" simulations. Exploited SQL Injection and XSS vulnerabilities on test environments (DVWA) and successfully compromised Windows and Linux target systems using the Metasploit Framework.
+* **Malware Lab & Reverse Engineering**
   Conducted behavioral analysis of malicious payloads in sandboxed environments to understand threat execution logic and extract Indicators of Compromise (IoCs).
 
 ---
